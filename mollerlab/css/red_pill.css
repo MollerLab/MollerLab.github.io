@@ -13,6 +13,10 @@ html{/*background-image: url('http://fc02.deviantart.net/fs71/f/2012/245/6/5/657
 	position: fixed;
 }
 
+#center{
+	text-align: center;
+}
+
 #head_content{ /*header*/
 	background-color: #262626;
 	margin-top: 16px;
