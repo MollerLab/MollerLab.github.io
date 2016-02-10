@@ -17,6 +17,8 @@ html{/*background-image: url('http://fc02.deviantart.net/fs71/f/2012/245/6/5/657
 	text-align: center;
 }
 
+
+
 #head_content{ /*header*/
 	background-color: #262626;
 	margin-top: 16px;
@@ -212,6 +214,13 @@ p{
 	margin-top: 16px;
 	color: #d4d4d4;
 	line-height: 145%;
+}
+
+h3 > a{
+	margin-top: 16px;
+	line-height: 145%;
+	display: inline-block;
+	float: right;
 }
 
 .quote{
