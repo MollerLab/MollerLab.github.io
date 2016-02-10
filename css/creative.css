@@ -212,11 +212,12 @@ header {
 
 .textbox{
        /* background-color: rgba(61,63,37)*/
-    background-color: rgba(53,54,32,0.65);
+    background-color: rgba(81,117,29,0.60);
     border-radius: 25px;
 }
 
-.textbox p{
+.textbox > #text{
+    color: #FCFCFC;
     opacity: 1.0;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
