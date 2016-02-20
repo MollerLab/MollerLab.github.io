@@ -19,8 +19,7 @@ body {
 }
 
 .form {
-    -webkit-overflow-scrolling: touch !important;
-    overflow-y: scroll !important;
+    -webkit-overflow-scrolling: touch;
     position: relative;
     padding-bottom: 75%;
     height: 0;
