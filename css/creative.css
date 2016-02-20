@@ -19,12 +19,12 @@ body {
 }
 
 .form {
-    -webkit-overflow-scrolling: touch;
-    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch !important;
+    overflow-y: scroll !important;
     position: relative;
     padding-bottom: 75%;
     height: 0;
-    /*overflow: hidden;*/
+    overflow: scroll;
 }
 
 .form iframe {
