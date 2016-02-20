@@ -26,6 +26,7 @@ body {
 }
 
 .form iframe {
+    overflow:auto;
     -webkit-overflow-scrolling:touch;
     position: absolute;
     top:0;
