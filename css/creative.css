@@ -19,10 +19,12 @@ body {
 }
 
 .form {
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
     position: relative;
     padding-bottom: 75%;
     height: 0;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .form iframe {
@@ -212,7 +214,7 @@ header {
 
 
 .textbox{
-       /* background-color: rgba(61,63,37)*/
+       /* background-color: rgba(61,63,37)
     background-color: rgba(81,117,29,0.60);
     border-radius: 25px;
 }
