@@ -229,8 +229,15 @@ header {
 
 .textbox{
     /*background-color: rgba(61,63,37)*/
-    background-color: rgba(81,117,29,0.60);
+    background-color: rgba(255,255,255,0.95);
     border-radius: 25px;
+    text-align: left;
+}
+
+.textbox p{
+    color: black !important;
+    padding: .75em;
+    font-size: 1.3em !important;
 }
 
 .textbox > #text{
