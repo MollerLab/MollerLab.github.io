@@ -18,6 +18,17 @@ body {
     height: 100%;
 }
 
+.test{
+    border-style: solid;
+    border-color: #FFFFFF;
+    padding-top: 1em;
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 1em;
+    border-radius: 25px;
+}
+
 .form {
     position: relative;
     padding-bottom: 75%;
