@@ -26,6 +26,13 @@ body {
   margin-right: 40px;
 }
 
+#white {
+  color: white;
+  font-size: 2.5em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 300;
+}
+
 article,
 aside,
 details,
@@ -7811,7 +7818,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-products,
-#fh5co-features {
+#fh5co-features,
+#fh5co-affiliate {
   border-bottom: 1px solid #f2f2f2;
 }
 
@@ -7819,7 +7827,8 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-features-2,
 #fh5co-features-3,
 #fh5co-products,
-#fh5co-faqs {
+#fh5co-faqsm
+#fh5co-affiliate {
   position: relative;
   padding: 7em 0;
 }
@@ -7828,14 +7837,16 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-features-2,
   #fh5co-features-3,
   #fh5co-products,
-  #fh5co-faqs {
+  #fh5co-faqs,
+  #fh5co-affiliate {
     padding: 4em 0;
   }
 }
 
 #fh5co-features,
 #fh5co-feature-3,
-#fh5co-faqs {
+#fh5co-faqs,
+#fh5co-affiliate {
   background: #fafafa;
 }
 
