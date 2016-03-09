@@ -33,6 +33,23 @@ body {
   color: white;
 }
 
+#connectw {
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: #ccc;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-family: "Montserrat", arial, sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    line-height: 1.1;
+    box-sizing: border-box;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
 .sporticon {
   margin-right: 40px;
 }
