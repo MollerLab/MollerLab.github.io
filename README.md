@@ -1,2 +1,1 @@
-# jbguberman.github.io
-Active Fantasy Sports Website
+# Active Fantasy Sports Landing Page
