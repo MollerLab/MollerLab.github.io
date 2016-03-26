@@ -11,7 +11,7 @@ All content is contained within `index.html`.  If you wish to update the copy, o
 If you want to make any stylistic changes, you're probably looking for `mollerlab.github.io/css/style.css`.  
 
 ### Hosting
-If, for some reason, this website is not going to be hosted in this repo in the future, make sure you update the `CNAME` file accordingly.  Currently, the website is hosted here through GitHub-Pages.  The domain, activefantasysports.com, is leased through GoDaddy.  Any changes to DNS records must be made through GoDaddy.  Consult Arlen Moller if you need access to the GoDaddy account..
+If, for some reason, this website is not going to be hosted in this repo in the future, make sure you update the `CNAME` file accordingly.  Currently, the website is hosted here through [GitHub Pages](https://pages.github.com/).  The domain, activefantasysports.com, is leased through GoDaddy.  Any changes to DNS records must be made through GoDaddy.  Consult Arlen Moller if you need access to the GoDaddy account..
 
 ##Credits
 This website is built around a free Bootstrap 3.3.5 template, which can be found [here on bootstrapzero.com](http://www.bootstrapzero.com/bootstrap-template/outline-free-html5-template)
