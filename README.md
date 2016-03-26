@@ -1,4 +1,5 @@
 # Active Fantasy Sports Landing Page
+<<<<<<< HEAD
 
 This repo contains the source code for Arlen Moller's 'Active Fantasy Sports' landing page.  Active Fantasy Sports is a new, empirically supported way to get in shape through playing fantasy sports.
 
@@ -15,3 +16,5 @@ If, for some reason, this website is not going to be hosted in this repo in the 
 
 ##Credits
 This website is built around a free Bootstrap 3.3.5 template, which can be found [here on bootstrapzero.com](http://www.bootstrapzero.com/bootstrap-template/outline-free-html5-template)
+=======
+>>>>>>> master
